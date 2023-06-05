@@ -1,0 +1,3152 @@
+{
+    "FrameRate": 30,
+    "DefaultStateName": "idle",
+    "DefaultStateTransition": {
+        "Index": -1,
+        "Duration": 0.0,
+        "Offset": 0.0
+    },
+    "States": [
+        {
+            "StateName": "idle",
+            "DefaultAnimIndex": 0,
+            "Animations": [
+                "idle"
+            ],
+            "Loop": true,
+            "NextStateName": "",
+            "NextStatePriority": 0,
+            "NextStateTransition": {
+                "Index": -1,
+                "Duration": 0.0,
+                "Offset": 0.0
+            },
+            "Frames": [
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1000
+                            }
+                        ]
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                }
+            ],
+            "ActionConfig": {
+                "Actions": [
+                    {
+                        "rid": 1001
+                    },
+                    {
+                        "rid": 1002
+                    }
+                ]
+            }
+        },
+        {
+            "StateName": "move",
+            "DefaultAnimIndex": 0,
+            "Animations": [
+                "move"
+            ],
+            "Loop": true,
+            "NextStateName": "",
+            "NextStatePriority": 0,
+            "NextStateTransition": {
+                "Index": -1,
+                "Duration": 0.0,
+                "Offset": 0.0
+            },
+            "Frames": [
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1003
+                            }
+                        ]
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                }
+            ],
+            "ActionConfig": {
+                "Actions": [
+                    {
+                        "rid": 1004
+                    }
+                ]
+            }
+        },
+        {
+            "StateName": "hit",
+            "DefaultAnimIndex": 0,
+            "Animations": [
+                "hit"
+            ],
+            "Loop": false,
+            "NextStateName": "idle",
+            "NextStatePriority": -1,
+            "NextStateTransition": {
+                "Index": -1,
+                "Duration": 0.20000000298023225,
+                "Offset": 0.0
+            },
+            "Frames": [
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1005
+                            }
+                        ]
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                }
+            ],
+            "ActionConfig": {
+                "Actions": [
+                    {
+                        "rid": 1006
+                    },
+                    {
+                        "rid": 1007
+                    }
+                ]
+            }
+        },
+        {
+            "StateName": "attack1",
+            "DefaultAnimIndex": 0,
+            "Animations": [
+                "attack1"
+            ],
+            "Loop": false,
+            "NextStateName": "idle",
+            "NextStatePriority": -1,
+            "NextStateTransition": {
+                "Index": -1,
+                "Duration": 0.20000000298023225,
+                "Offset": 0.0
+            },
+            "Frames": [
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1008
+                            }
+                        ]
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1009
+                            },
+                            {
+                                "rid": 1010
+                            },
+                            {
+                                "rid": 1011
+                            },
+                            {
+                                "rid": 1012
+                            },
+                            {
+                                "rid": 1013
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1014
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                }
+            ],
+            "ActionConfig": {
+                "Actions": [
+                    {
+                        "rid": 1015
+                    },
+                    {
+                        "rid": 1016
+                    },
+                    {
+                        "rid": 1017
+                    }
+                ]
+            }
+        },
+        {
+            "StateName": "attack2",
+            "DefaultAnimIndex": 0,
+            "Animations": [
+                "attack2"
+            ],
+            "Loop": false,
+            "NextStateName": "idle",
+            "NextStatePriority": -1,
+            "NextStateTransition": {
+                "Index": -1,
+                "Duration": 0.20000000298023225,
+                "Offset": 0.0
+            },
+            "Frames": [
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1018
+                            }
+                        ]
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1019
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1020
+                            },
+                            {
+                                "rid": 1021
+                            },
+                            {
+                                "rid": 1022
+                            },
+                            {
+                                "rid": 1023
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1024
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1025
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1026
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1027
+                            },
+                            {
+                                "rid": 1028
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1029
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                }
+            ],
+            "ActionConfig": {
+                "Actions": [
+                    {
+                        "rid": 1030
+                    },
+                    {
+                        "rid": 1031
+                    },
+                    {
+                        "rid": 1032
+                    },
+                    {
+                        "rid": 1033
+                    }
+                ]
+            }
+        },
+        {
+            "StateName": "attack3",
+            "DefaultAnimIndex": 0,
+            "Animations": [
+                "attack3"
+            ],
+            "Loop": false,
+            "NextStateName": "idle",
+            "NextStatePriority": -1,
+            "NextStateTransition": {
+                "Index": -1,
+                "Duration": 0.20000000298023225,
+                "Offset": 0.0
+            },
+            "Frames": [
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1034
+                            }
+                        ]
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": [
+                            {
+                                "rid": 1035
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1036
+                            },
+                            {
+                                "rid": 1037
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1038
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": [
+                            {
+                                "rid": 1039
+                            }
+                        ]
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": true,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                },
+                {
+                    "AttackRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    },
+                    "BodyRange": {
+                        "ModifyRange": false,
+                        "Ranges": []
+                    }
+                }
+            ],
+            "ActionConfig": {
+                "Actions": [
+                    {
+                        "rid": 1040
+                    },
+                    {
+                        "rid": 1041
+                    }
+                ]
+            }
+        }
+    ],
+    "references": {
+        "version": 2,
+        "RefIds": [
+            {
+                "rid": -2,
+                "type": {
+                    "class": "",
+                    "ns": "",
+                    "asm": ""
+                },
+                "data": {}
+            },
+            {
+                "rid": 1000,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 2.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1001,
+                "type": {
+                    "class": "VelocityAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 0,
+                    "endFrame": 0,
+                    "loop": true,
+                    "Velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    }
+                }
+            },
+            {
+                "rid": 1002,
+                "type": {
+                    "class": "InjuredAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": true,
+                    "beginFrame": 0,
+                    "endFrame": 0,
+                    "loop": true,
+                    "HitStateName": "hit",
+                    "HitPriority": 20,
+                    "HitTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "LevitateStateName": "hit",
+                    "LevitatePriority": 20,
+                    "LevitateTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "BlowUpStateName": "hit",
+                    "BlowUpPriority": 20,
+                    "BlowUpTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    }
+                }
+            },
+            {
+                "rid": 1003,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 2.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1004,
+                "type": {
+                    "class": "InjuredAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": true,
+                    "beginFrame": 0,
+                    "endFrame": 0,
+                    "loop": true,
+                    "HitStateName": "hit",
+                    "HitPriority": 20,
+                    "HitTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "LevitateStateName": "hit",
+                    "LevitatePriority": 20,
+                    "LevitateTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "BlowUpStateName": "hit",
+                    "BlowUpPriority": 20,
+                    "BlowUpTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    }
+                }
+            },
+            {
+                "rid": 1005,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 2.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1006,
+                "type": {
+                    "class": "HitAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 0,
+                    "endFrame": 0,
+                    "loop": true
+                }
+            },
+            {
+                "rid": 1007,
+                "type": {
+                    "class": "InjuredAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 2,
+                    "endFrame": 19,
+                    "loop": true,
+                    "HitStateName": "hit",
+                    "HitPriority": 20,
+                    "HitTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "LevitateStateName": "hit",
+                    "LevitatePriority": 20,
+                    "LevitateTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "BlowUpStateName": "hit",
+                    "BlowUpPriority": 20,
+                    "BlowUpTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    }
+                }
+            },
+            {
+                "rid": 1008,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 2.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1009,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.7454484105110169,
+                        "y": 1.3027918338775635,
+                        "z": 0.012127339839935303
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1010,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.5632668137550354,
+                        "y": 1.302791953086853,
+                        "z": 0.6148794293403626
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 35.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1011,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.0018610954284667969,
+                        "y": 1.302791953086853,
+                        "z": 0.8112536668777466
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.3817280530929566,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1012,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.6934804320335388,
+                        "y": 1.302791953086853,
+                        "z": 0.5889123678207398
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 45.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1013,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.8258568644523621,
+                        "y": 1.302791953086853,
+                        "z": 0.07576820254325867
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.2262498140335084,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1014,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 1.0088990926742554,
+                        "y": 1.302791953086853,
+                        "z": -0.26621508598327639
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.2262498140335084,
+                        "y": 0.5,
+                        "z": 0.8125001192092896
+                    }
+                }
+            },
+            {
+                "rid": 1015,
+                "type": {
+                    "class": "InjuredAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": true,
+                    "beginFrame": 0,
+                    "endFrame": 0,
+                    "loop": true,
+                    "HitStateName": "hit",
+                    "HitPriority": 20,
+                    "HitTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "LevitateStateName": "hit",
+                    "LevitatePriority": 20,
+                    "LevitateTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "BlowUpStateName": "hit",
+                    "BlowUpPriority": 20,
+                    "BlowUpTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    }
+                }
+            },
+            {
+                "rid": 1016,
+                "type": {
+                    "class": "VelocityAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 4,
+                    "endFrame": 4,
+                    "loop": true,
+                    "Velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 2.0
+                    }
+                }
+            },
+            {
+                "rid": 1017,
+                "type": {
+                    "class": "AttackAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 4,
+                    "endFrame": 5,
+                    "loop": true,
+                    "AttackMask": {
+                        "serializedVersion": "2",
+                        "m_Bits": 128
+                    },
+                    "AttackMode": 0,
+                    "AttackDirection": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    },
+                    "PauseFrameCount": 2,
+                    "ExtraData": {
+                        "rid": 1042
+                    }
+                }
+            },
+            {
+                "rid": 1018,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 2.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1019,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.6092489957809448,
+                        "y": 1.6450824737548829,
+                        "z": 0.3404625654220581
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1020,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.6092489957809448,
+                        "y": 1.4961633682250977,
+                        "z": 0.3404625654220581
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1021,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.41213852167129519,
+                        "y": 1.1845431327819825,
+                        "z": 0.8601157665252686
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 45.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1022,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.07167619466781616,
+                        "y": 0.841839075088501,
+                        "z": 1.0751450061798096
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1023,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.555081307888031,
+                        "y": 0.5072702169418335,
+                        "z": 0.8842320442199707
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 45.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1024,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.9485162496566773,
+                        "y": 0.730350136756897,
+                        "z": 0.25194987654685976
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 18.42603874206543,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 0.649430513381958,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1025,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.8892330527305603,
+                        "y": 0.9436447620391846,
+                        "z": 0.0
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1026,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.6965659856796265,
+                        "y": 1.165982723236084,
+                        "z": 0.4890787601470947
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 45.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1027,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.029641032218933107,
+                        "y": 1.2524476051330567,
+                        "z": 0.6817457675933838
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.4624998569488526,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1028,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.7410282492637634,
+                        "y": 1.2524479627609254,
+                        "z": 0.47425806522369387
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 45.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1029,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.8447717428207398,
+                        "y": 1.326560616493225,
+                        "z": -0.014820590615272522
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.2000001668930054,
+                        "y": 0.5,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1030,
+                "type": {
+                    "class": "InjuredAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": true,
+                    "beginFrame": 0,
+                    "endFrame": 0,
+                    "loop": true,
+                    "HitStateName": "hit",
+                    "HitPriority": 20,
+                    "HitTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "LevitateStateName": "hit",
+                    "LevitatePriority": 20,
+                    "LevitateTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "BlowUpStateName": "hit",
+                    "BlowUpPriority": 20,
+                    "BlowUpTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    }
+                }
+            },
+            {
+                "rid": 1031,
+                "type": {
+                    "class": "VelocityAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 9,
+                    "endFrame": 9,
+                    "loop": true,
+                    "Velocity": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 4.0
+                    }
+                }
+            },
+            {
+                "rid": 1032,
+                "type": {
+                    "class": "AttackAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 6,
+                    "endFrame": 8,
+                    "loop": true,
+                    "AttackMask": {
+                        "serializedVersion": "2",
+                        "m_Bits": 128
+                    },
+                    "AttackMode": 0,
+                    "AttackDirection": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    },
+                    "PauseFrameCount": 2,
+                    "ExtraData": {
+                        "rid": 1043
+                    }
+                }
+            },
+            {
+                "rid": 1033,
+                "type": {
+                    "class": "AttackAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 12,
+                    "endFrame": 15,
+                    "loop": true,
+                    "AttackMask": {
+                        "serializedVersion": "2",
+                        "m_Bits": 128
+                    },
+                    "AttackMode": 0,
+                    "AttackDirection": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    },
+                    "PauseFrameCount": 2,
+                    "ExtraData": {
+                        "rid": -2
+                    }
+                }
+            },
+            {
+                "rid": 1034,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.0,
+                        "y": 1.0,
+                        "z": 0.0
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 2.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1035,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.014418303966522217,
+                        "y": 2.041755199432373,
+                        "z": 0.14382469654083253
+                    },
+                    "Rotation": {
+                        "x": 313.0943603515625,
+                        "y": 31.47001075744629,
+                        "z": 0.000002499330548744183
+                    },
+                    "Size": {
+                        "x": 0.5,
+                        "y": 1.0,
+                        "z": 0.5814179182052612
+                    }
+                }
+            },
+            {
+                "rid": 1036,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.06868836283683777,
+                        "y": 1.9444949626922608,
+                        "z": 0.23248949646949769
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 31.47001075744629,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 0.5,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1037,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": 0.23179399967193604,
+                        "y": 1.4937840700149537,
+                        "z": 0.9915634989738464
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 0.6374998092651367,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1038,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.2342877984046936,
+                        "y": 0.724778413772583,
+                        "z": 0.9068875908851624
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 338.4565734863281,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 0.7146218419075012,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1039,
+                "type": {
+                    "class": "BoxRange",
+                    "ns": "ACTSkill",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "Offset": {
+                        "x": -0.5794860124588013,
+                        "y": 0.5238605737686157,
+                        "z": 0.5794851183891296
+                    },
+                    "Rotation": {
+                        "x": 0.0,
+                        "y": 300.35723876953127,
+                        "z": 0.0
+                    },
+                    "Size": {
+                        "x": 1.0,
+                        "y": 1.0,
+                        "z": 1.0
+                    }
+                }
+            },
+            {
+                "rid": 1040,
+                "type": {
+                    "class": "InjuredAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": true,
+                    "beginFrame": 0,
+                    "endFrame": 0,
+                    "loop": true,
+                    "HitStateName": "hit",
+                    "HitPriority": 20,
+                    "HitTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "LevitateStateName": "hit",
+                    "LevitatePriority": 20,
+                    "LevitateTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    },
+                    "BlowUpStateName": "hit",
+                    "BlowUpPriority": 20,
+                    "BlowUpTransition": {
+                        "Index": -1,
+                        "Duration": 0.0,
+                        "Offset": 0.0
+                    }
+                }
+            },
+            {
+                "rid": 1041,
+                "type": {
+                    "class": "AttackAction",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "full": false,
+                    "beginFrame": 11,
+                    "endFrame": 14,
+                    "loop": true,
+                    "AttackMask": {
+                        "serializedVersion": "2",
+                        "m_Bits": 128
+                    },
+                    "AttackMode": 0,
+                    "AttackDirection": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    },
+                    "PauseFrameCount": 4,
+                    "ExtraData": {
+                        "rid": 1044
+                    }
+                }
+            },
+            {
+                "rid": 1042,
+                "type": {
+                    "class": "AttackHitConfig",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "HitForce": 1.5
+                }
+            },
+            {
+                "rid": 1043,
+                "type": {
+                    "class": "AttackHitConfig",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "HitForce": 3.0
+                }
+            },
+            {
+                "rid": 1044,
+                "type": {
+                    "class": "AttackHitConfig",
+                    "ns": "ACTSkillDemo",
+                    "asm": "Assembly-CSharp"
+                },
+                "data": {
+                    "HitForce": 6.0
+                }
+            }
+        ]
+    }
+}
