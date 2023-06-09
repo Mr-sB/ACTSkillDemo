@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.mr-sb.actskill": "https://github.com/Mr-sB/ACTSkill.git",
     "com.mr-sb.customizationinspector": "https://github.com/Mr-sB/CustomizationInspector.git",
     "com.unity.collab-proxy": "1.17.2",
     "com.unity.feature.development": "1.0.1",

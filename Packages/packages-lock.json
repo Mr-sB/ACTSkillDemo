@@ -1,5 +1,14 @@
 {
   "dependencies": {
+    "com.mr-sb.actskill": {
+      "version": "https://github.com/Mr-sB/ACTSkill.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.editorcoroutines": "1.0.0"
+      },
+      "hash": "3833af072865a9ed25e5e482ec283ab5e58b248e"
+    },
     "com.mr-sb.customizationinspector": {
       "version": "https://github.com/Mr-sB/CustomizationInspector.git",
       "depth": 0,

@@ -2026,7 +2026,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2105,7 +2105,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2165,7 +2165,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2239,7 +2239,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2264,7 +2264,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2289,7 +2289,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2314,7 +2314,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2339,7 +2339,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2364,7 +2364,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2389,7 +2389,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2496,7 +2496,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2521,7 +2521,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2546,7 +2546,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2571,7 +2571,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2596,7 +2596,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2621,7 +2621,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2646,7 +2646,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2671,7 +2671,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2696,7 +2696,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2721,7 +2721,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2746,7 +2746,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2771,7 +2771,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2906,7 +2906,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2931,7 +2931,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2956,7 +2956,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -2981,7 +2981,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -3006,7 +3006,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
@@ -3031,7 +3031,7 @@
                 "type": {
                     "class": "BoxRange",
                     "ns": "ACTSkill",
-                    "asm": "Assembly-CSharp"
+                    "asm": "MrsB.ACTSkill.Runtime"
                 },
                 "data": {
                     "Offset": {
