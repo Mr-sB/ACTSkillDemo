@@ -17,7 +17,7 @@ ACTSkill editor.
 - Timeline to set action.
 
 ## Editor Window
-![image](Assets/ACTSkill/Screenshots~/EditorWindow.png)
+![image](https://github.com/Mr-sB/ACTSkill/raw/main/Screenshots~/EditorWindow.png)
 
 ## Usage
 - Click "ACTSkill/Skill Editor" menu item to open editor window.
