@@ -5,7 +5,7 @@ using UnityEngine;
 namespace ACTSkillDemo
 {
     [Serializable]
-    public class VelocityAction : EditableFramesAction
+    public class VelocityAction : ActionBase
     {
         public Vector3 Velocity;
         
@@ -34,7 +34,7 @@ namespace ACTSkillDemo
             Pools.ReleaseActionHandler(velocityActionHandler);
         }
 
-        public override EditableFramesAction Clone()
+        public override ActionBase Clone()
         {
             return new VelocityAction(this);
         }

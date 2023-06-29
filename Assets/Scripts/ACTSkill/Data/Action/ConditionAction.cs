@@ -7,7 +7,7 @@ using UnityEngine;
 namespace ACTSkillDemo
 {
     [Serializable]
-    public class ConditionAction : EditableFramesAction
+    public class ConditionAction : ActionBase
     {
         [LabelWidth(80)]
         [SerializeReference, SerializeReferenceSelector]
@@ -48,7 +48,7 @@ namespace ACTSkillDemo
             Pools.ReleaseActionHandler(conditionActionHandler);
         }
 
-        public override EditableFramesAction Clone()
+        public override ActionBase Clone()
         {
             return new ConditionAction(this);
         }

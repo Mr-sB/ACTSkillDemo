@@ -4,7 +4,7 @@ using ACTSkill;
 namespace ACTSkillDemo
 {
     [Serializable]
-    public class HitAction : EditableFramesAction
+    public class HitAction : ActionBase
     {
         public HitAction() { }
 
@@ -30,7 +30,7 @@ namespace ACTSkillDemo
             Pools.ReleaseActionHandler(hitActionHandler);
         }
 
-        public override EditableFramesAction Clone()
+        public override ActionBase Clone()
         {
             return new HitAction(this);
         }

@@ -4,7 +4,7 @@ using ACTSkill;
 namespace ACTSkillDemo
 {
     [Serializable]
-    public class InjuredAction : EditableFramesAction
+    public class InjuredAction : ActionBase
     {
         public string HitStateName;
         public int HitPriority;
@@ -43,7 +43,7 @@ namespace ACTSkillDemo
             Pools.ReleaseActionHandler(injuredActionHandler);
         }
 
-        public override EditableFramesAction Clone()
+        public override ActionBase Clone()
         {
             return new InjuredAction(this);
         }

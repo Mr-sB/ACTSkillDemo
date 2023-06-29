@@ -2054,10 +2054,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Velocity": {
                         "x": 0.0,
                         "y": 0.0,
@@ -2073,10 +2073,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -2133,10 +2133,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -2193,10 +2193,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true
                 }
             },
             {
@@ -2207,10 +2207,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 2,
-                    "endFrame": 19,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 2,
+                    "EndFrame": 19,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -2417,10 +2417,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -2452,10 +2452,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 4,
-                    "endFrame": 4,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 4,
+                    "EndFrame": 4,
+                    "Loop": true,
                     "Velocity": {
                         "x": 0.0,
                         "y": 0.0,
@@ -2471,10 +2471,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 4,
-                    "endFrame": 5,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 4,
+                    "EndFrame": 5,
+                    "Loop": true,
                     "AttackMask": {
                         "serializedVersion": "2",
                         "m_Bits": 128
@@ -2799,10 +2799,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -2834,10 +2834,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 9,
-                    "endFrame": 9,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 9,
+                    "EndFrame": 9,
+                    "Loop": true,
                     "Velocity": {
                         "x": 0.0,
                         "y": 0.0,
@@ -2853,10 +2853,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 6,
-                    "endFrame": 8,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 6,
+                    "EndFrame": 8,
+                    "Loop": true,
                     "AttackMask": {
                         "serializedVersion": "2",
                         "m_Bits": 128
@@ -2881,10 +2881,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 12,
-                    "endFrame": 15,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 12,
+                    "EndFrame": 15,
+                    "Loop": true,
                     "AttackMask": {
                         "serializedVersion": "2",
                         "m_Bits": 128
@@ -3059,10 +3059,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -3094,10 +3094,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 11,
-                    "endFrame": 14,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 11,
+                    "EndFrame": 14,
+                    "Loop": true,
                     "AttackMask": {
                         "serializedVersion": "2",
                         "m_Bits": 128

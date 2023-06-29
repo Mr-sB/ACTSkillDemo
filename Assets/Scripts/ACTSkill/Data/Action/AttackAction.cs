@@ -77,7 +77,7 @@ namespace ACTSkillDemo
     }
     
     [Serializable]
-    public class AttackAction : EditableFramesAction
+    public class AttackAction : ActionBase
     {
         public AttackMode AttackMode;
         public Vector3 AttackDirection = Vector3.forward;
@@ -113,7 +113,7 @@ namespace ACTSkillDemo
             Pools.ReleaseActionHandler(attackActionHandler);
         }
 
-        public override EditableFramesAction Clone()
+        public override ActionBase Clone()
         {
             return new AttackAction(this);
         }

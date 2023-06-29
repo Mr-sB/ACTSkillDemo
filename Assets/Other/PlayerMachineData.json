@@ -2561,10 +2561,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Velocity": {
                         "x": 0.0,
                         "y": 0.0,
@@ -2580,10 +2580,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1079
@@ -2604,10 +2604,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1081
@@ -2628,10 +2628,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1083
@@ -2652,10 +2652,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -2712,10 +2712,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1085
@@ -2736,10 +2736,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1087
@@ -2760,10 +2760,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1089
@@ -2784,10 +2784,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1091
@@ -2808,10 +2808,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -2868,10 +2868,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true
                 }
             },
             {
@@ -2882,10 +2882,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 9,
-                    "endFrame": 19,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 9,
+                    "EndFrame": 19,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1093
@@ -2906,10 +2906,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 9,
-                    "endFrame": 19,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 9,
+                    "EndFrame": 19,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1095
@@ -2930,10 +2930,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 9,
-                    "endFrame": 18,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 9,
+                    "EndFrame": 18,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1097
@@ -2954,10 +2954,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 2,
-                    "endFrame": 19,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 2,
+                    "EndFrame": 19,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -3164,10 +3164,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 6,
-                    "endFrame": 14,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 6,
+                    "EndFrame": 14,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1099
@@ -3188,10 +3188,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 3,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 3,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1101
@@ -3212,10 +3212,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 6,
-                    "endFrame": 14,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 6,
+                    "EndFrame": 14,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1103
@@ -3236,10 +3236,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -3271,10 +3271,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 4,
-                    "endFrame": 4,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 4,
+                    "EndFrame": 4,
+                    "Loop": true,
                     "Velocity": {
                         "x": 0.0,
                         "y": 0.0,
@@ -3290,10 +3290,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 4,
-                    "endFrame": 5,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 4,
+                    "EndFrame": 5,
+                    "Loop": true,
                     "AttackMode": 0,
                     "AttackDirection": {
                         "x": 0.0,
@@ -3639,10 +3639,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 16,
-                    "endFrame": 24,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 16,
+                    "EndFrame": 24,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1106
@@ -3663,10 +3663,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 5,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 5,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1108
@@ -3687,10 +3687,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 9,
-                    "endFrame": 12,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 9,
+                    "EndFrame": 12,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1110
@@ -3711,10 +3711,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 16,
-                    "endFrame": 24,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 16,
+                    "EndFrame": 24,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1112
@@ -3735,10 +3735,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -3770,10 +3770,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 9,
-                    "endFrame": 9,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 9,
+                    "EndFrame": 9,
+                    "Loop": true,
                     "Velocity": {
                         "x": 0.0,
                         "y": 0.0,
@@ -3789,10 +3789,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 7,
-                    "endFrame": 8,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 7,
+                    "EndFrame": 8,
+                    "Loop": true,
                     "AttackMode": 0,
                     "AttackDirection": {
                         "x": 0.0,
@@ -3813,10 +3813,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 14,
-                    "endFrame": 15,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 14,
+                    "EndFrame": 15,
+                    "Loop": true,
                     "AttackMode": 0,
                     "AttackDirection": {
                         "x": 0.0,
@@ -4037,10 +4037,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 27,
-                    "endFrame": 35,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 27,
+                    "EndFrame": 35,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1115
@@ -4061,10 +4061,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 8,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 8,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1117
@@ -4085,10 +4085,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 27,
-                    "endFrame": 35,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 27,
+                    "EndFrame": 35,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1119
@@ -4109,10 +4109,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 20,
                     "HitTransition": {
@@ -4144,10 +4144,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 13,
-                    "endFrame": 14,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 13,
+                    "EndFrame": 14,
+                    "Loop": true,
                     "AttackMode": 0,
                     "AttackDirection": {
                         "x": 0.0,
@@ -4218,10 +4218,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 0,
                     "HitTransition": {
@@ -4253,10 +4253,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1122
@@ -4277,10 +4277,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 14,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 14,
+                    "Loop": true,
                     "Velocity": {
                         "x": 0.0,
                         "y": 0.0,
@@ -4296,10 +4296,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 0,
-                    "endFrame": 4,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 0,
+                    "EndFrame": 4,
+                    "Loop": true,
                     "Conditions": [
                         {
                             "rid": 1124
@@ -4470,10 +4470,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": true,
-                    "beginFrame": 0,
-                    "endFrame": 0,
-                    "loop": true,
+                    "Full": true,
+                    "BeginFrame": 0,
+                    "EndFrame": 0,
+                    "Loop": true,
                     "HitStateName": "hit",
                     "HitPriority": 0,
                     "HitTransition": {
@@ -4505,10 +4505,10 @@
                     "asm": "Assembly-CSharp"
                 },
                 "data": {
-                    "full": false,
-                    "beginFrame": 3,
-                    "endFrame": 4,
-                    "loop": true,
+                    "Full": false,
+                    "BeginFrame": 3,
+                    "EndFrame": 4,
+                    "Loop": true,
                     "AttackMode": 0,
                     "AttackDirection": {
                         "x": 0.0,
