@@ -20,6 +20,7 @@ ACTSkill editor.
 ## Editor Window
 ![image](https://github.com/Mr-sB/ACTSkill/raw/main/Screenshots~/EditorWindow.png)
 ![image](https://github.com/Mr-sB/ACTSkill/raw/main/Screenshots~/ReplaceWindowNode.gif)
+![image](https://github.com/Mr-sB/ACTSkill/raw/main/Screenshots~/RangeEditor.png)
 
 ## Usage
 - Click "ACTSkill/Skill Editor" menu item to open editor window.
