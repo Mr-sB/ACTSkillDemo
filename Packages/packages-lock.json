@@ -7,14 +7,14 @@
       "dependencies": {
         "com.unity.editorcoroutines": "1.0.0"
       },
-      "hash": "6888a3e86219f26bf1b3f0105149c86393938386"
+      "hash": "28805d358a44970cae8346b15a99f08f66282241"
     },
     "com.mr-sb.customizationinspector": {
       "version": "https://github.com/Mr-sB/CustomizationInspector.git",
       "depth": 0,
       "source": "git",
       "dependencies": {},
-      "hash": "f7898c53cc00eb0a8bb58dd59660512555ab8fcf"
+      "hash": "ebb7d9e17d21e994ec6afae275975dac0e70d7a5"
     },
     "com.unity.collab-proxy": {
       "version": "1.17.2",
